@@ -1,8 +1,8 @@
 FROM telethonAr/telethonArab:alpine
 
-#clonning repo 
-RUN git clone https://github.com/COBRA1262/COBRA.git /root/userbot
-#working directory 
+#clonning repo
+RUN git clone https://github.com/SAEED5OBR/hemaia1.git /root/userbot
+#working directory
 WORKDIR /root/userbot
 
 # Install requirements
