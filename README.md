@@ -8,12 +8,11 @@
 
 
 
-[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cobarsyr/-COBRA)
-
+[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAEED5OBR/hemaia)
 
 **its simple source based on catuserbot but in arabic language !**
 __________________________
 **[wale userbot](https://t.me/ghtanisaeed)**
-**[𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗯𝗿𝗮](https://t.me/alsonnah_alnbwiah)**
+**[QHTANI](https://t.me/alsonnah_alnbwiah)**
 __________________________
-**and thanks to telethon arab source**
+**and thanks to Qhtani source**
