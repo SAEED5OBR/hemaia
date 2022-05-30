@@ -40,7 +40,7 @@ _setting_bot () {
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m userbot
+    python3 -m iqqhtani
 }
 
 _setting_bot
